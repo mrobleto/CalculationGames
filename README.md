@@ -1,10 +1,14 @@
+# CalculationGames
+Calculation Game in C++
+
 ## Getting Started
 ### Dependencies
 #### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+ex. Windows 10 or Mac or Linux
 
 ### Installing
 #### How/where to download your program
+#### IDE(Replit ex.
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
